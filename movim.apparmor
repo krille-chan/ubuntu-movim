@@ -1,0 +1,12 @@
+{
+    "policy_groups": [
+        "networking",
+        "audio",
+        "video",
+        "content_exchange",
+        "camera",
+        "microphone",
+        "webview"
+    ],
+    "policy_version": 1.3
+}
